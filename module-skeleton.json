@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-transfers-and-replenishment-dart-mobile",
+  "capabilityKey": "planned:ecommerce:transfers-and-replenishment",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_transfers_and_replenishment_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/transfers-and-replenishment.md",
+  "presentationPlan": "projects/ecommerce/features/transfers-and-replenishment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
